@@ -1,4 +1,8 @@
+# Ignore virtual environment
 venv/
+
+# Ignore compiled bytecode
 __pycache__/
-*.pyc
-.DS_Store
+
+# Ignore ffmpeg binaries
+ffmpeg/
