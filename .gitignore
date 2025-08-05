@@ -6,3 +6,15 @@ __pycache__/
 
 # Ignore ffmpeg binaries
 ffmpeg/
+
+# Ignore dataset images and labels
+task3/images/
+task3/labels/
+task3/datasets/african-wildlife
+
+best.pt
+last.pt
+
+# YOLOv8 outputs
+task3/runs/
+task3/*.pt
