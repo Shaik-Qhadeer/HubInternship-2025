@@ -18,7 +18,7 @@ Each task involved solving practical computer vision challenges, ranging from **
 
 ---
 
-## 🔧 Technologies Used
+##  Technologies Used
 
 - **Python** — core programming language
 - **[Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)** — object detection & segmentation framework
@@ -28,5 +28,5 @@ Each task involved solving practical computer vision challenges, ranging from **
 
 
 
-## 📂 Repository Structure
+
 
