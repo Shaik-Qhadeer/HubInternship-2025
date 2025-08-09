@@ -1,0 +1,6 @@
+train: ./dataset/train/images
+val: ./dataset/val/images
+test: ./dataset/test/images  # optional — remove this line if no test set
+
+nc: 6
+names: ['one', 'two', 'three', 'four', 'five', 'six']

@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "five"
+    },
+    {
+      "id": 1,
+      "name": "four"
+    },
+    {
+      "id": 2,
+      "name": "one"
+    },
+    {
+      "id": 3,
+      "name": "six"
+    },
+    {
+      "id": 4,
+      "name": "three"
+    },
+    {
+      "id": 5,
+      "name": "two"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
